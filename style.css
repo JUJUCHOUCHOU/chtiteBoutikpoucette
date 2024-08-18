@@ -1,0 +1,16 @@
+:root{
+    --paleDogwood-: #c1aba6;
+    --eggplant-: #533B4D;
+    --hotPink-: #F564A9;
+    --amaranthPink-: #faa4bd;
+    --champagne-: #fae3c6;
+}
+.raleway{
+    font-family: "Raleway", sans-serif;
+}
+.dancing{
+    font-family: "Dancing Script", cursive;
+}
+nav a{
+    text-decoration: none;
+}
